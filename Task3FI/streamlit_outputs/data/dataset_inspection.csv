@@ -1,0 +1,15 @@
+column,dtype,missing_values,unique_values
+date,object,0,175
+week_start,object,0,26
+channel,object,0,5
+source,object,0,20
+campaign,object,0,11
+segment,object,0,2
+stage,object,0,6
+stage_order,int64,0,6
+stage_count,int64,0,729
+cost,float64,0,513
+revenue,float64,0,498
+channel_index,int64,0,5
+campaign_index,int64,0,2
+week_index,int64,0,26
